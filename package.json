@@ -19,7 +19,7 @@
   "homepage": "https://github.com/givan/socker-game-ranking#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "nyc": "^15.0.0"
   },
   "dependencies": {
